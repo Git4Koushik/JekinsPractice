@@ -2,7 +2,7 @@ class Hello {
 
 	public static void main(String[] args){
 
-		System.out.print("Hello Jenkins")	;
+		System.out.print("Hello Jenkins web hook");
           
 
         }
